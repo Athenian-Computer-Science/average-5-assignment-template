@@ -1,16 +1,19 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Average 5 
 
 ## Problem Description
-Problem description goes here. 
+Write a function that takes 5 numbers and returns their average. Use the starter code to help you with format.
 
-* Steps to take go here. 
+In the `main` part of the program, ask the user for 5 numbers. You should do this in 5 requests - feel free to use a loop to make it more elegant.
 
 ## Example
 ```
-Value to increment? 5
-10
+Enter a number: 3
+Enter a number: 5
+Enter a number: 4
+Enter a number: 1
+Enter a number: 2
+
+3
 ```
 
 ## Suggested Approach
