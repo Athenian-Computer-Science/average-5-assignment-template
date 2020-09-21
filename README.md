@@ -1,9 +1,9 @@
-# Average 5 
+# Average x 
 
 ## Problem Description
-Write a function that takes 5 numbers and returns their average. Use the starter code to help you with format.
+Write a function that takes input numbers and returns their average. Use the starter code to help you with format.
 
-In the `main` part of the program, ask the user for 5 numbers. You should do this in 5 requests - feel free to use a loop to make it more elegant.
+In the `main` part of the program, ask the user for the numbers to be averaged. 
 
 ## Example
 ```
