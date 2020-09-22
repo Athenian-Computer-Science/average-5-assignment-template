@@ -2,9 +2,7 @@
 #
 
 def avg(user_list):
-    total = sum(user_list)
-    num_values = len(user_list)
-    average = total/num_values
+    # Insert code here
     return average
 
 
